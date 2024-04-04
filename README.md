@@ -1,24 +1,3 @@
-AGRG: Awesome Github Readme Generator
-Generate Successfully
-
-
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
-Preview Markdown
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">📝I am studying at OnlyJs academy.📝</h3>
 <div> <a href="https://www.linkedin.com/in/linkedin.com/in/mert-aydın-58ba58242" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
